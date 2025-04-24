@@ -23,4 +23,4 @@ streamlit run dashboard/app.py
 
 ## Access deployed streamlit
 
-...
+[https://rfqgal-bike-sharing-analysis.streamlit.app/](https://rfqgal-bike-sharing-analysis.streamlit.app/)
